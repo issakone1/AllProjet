@@ -15,13 +15,13 @@ using namespace std;
 int main(int argc, char** argv)
 {
 	system("Color 0A");
-	/*cout << endl;
+	cout << endl;
     cout << "                          Chargement..." << endl;
     cout << endl;
     for(int i = 1; i < 80; i++){
         cout << '%';
         Sleep(70);
-    }*/
+    }
      Plateau plateau(17,17);
 
     string const nomFichier("D:/BAGGO  L1TDSI/PROJETS/PROJET C++/ProjetTest2/scores.txt");
